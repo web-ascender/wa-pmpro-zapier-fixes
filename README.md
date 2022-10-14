@@ -1,4 +1,4 @@
-# H1 Paid Membership Pro Zapier Plugin "fixes"
+# Paid Membership Pro Zapier Plugin "fixes"
 
 **The PMPro Zapier WordPress plugin had some issues that was making it hard to use with Zapier**
 
@@ -25,3 +25,8 @@ You can enable all the hooks and send all the hooks to the same Zapier endpoint 
 When integrating with HubSpot we used the:  "Find or Create Contact" by email. 
 On each hook this will find the existing HubSpot entry by wp_email and then update their content or if it's new, it will create the HubSpot contact.
 
+https://www.paidmembershipspro.com/
+https://www.paidmembershipspro.com/add-ons/pmpro-zapier/
+
+PMPro Zapier version at the time of this implementation: 1.2.1
+It's quite possible in the future, if this add-on is still maintained by Paid Membership Pro that they'll standardize the information that comes across in each hook better. 
